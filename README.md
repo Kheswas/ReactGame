@@ -2,7 +2,7 @@
 
 This wordsearch game was created in a way that i could learn the React Fundamentals.
 The planning started with a trello board where i identified the project and its implimentation.
-the implimentation:
+### The implimentation:
     a grid consisting with a given amount of words in an array.
     i needed to identify the core logic.
 ### core logic  
@@ -12,7 +12,7 @@ the implimentation:
             : how would the user know when the have found all the words in the grid.
             : had to check which were states and which werent.
             
-### Implimentation:
+
 ### on my terminal
               : npx create-react-app your-app
               : cd your-app
