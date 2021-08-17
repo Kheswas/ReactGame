@@ -1,4 +1,4 @@
-wordsearch Game.
+### Wordsearch Game.
 
 this wordsearch game was created in a way that i could learn the React Fundamentals.
 The planning started with a trello board where i identified the project and its implimentation.
