@@ -13,7 +13,8 @@ the implimentation:
             : had to check which were states and which werent.
             
 ### Implimentation:
-### on my terminal: npx create-react-app your-app
+### on my terminal
+              : npx create-react-app your-app
               : cd your-app
               : npm start (to run react)
-I also installed npm i react-grid-system.              
+I also installed : npm i react-grid-system.              
