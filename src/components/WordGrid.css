@@ -1,0 +1,86 @@
+
+.grid-container{
+    grid-template-columns:auto auto auto;
+    background-color: rgb(106, 48, 121);
+    margin: 40px;
+    padding:0%;
+    height:100%;
+    width:200%;
+    clear:both;
+}
+
+.grid-item{
+    background-color: rgb(237, 244, 248);
+    border: 1px solid black;
+    width:50px;
+    height:50px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    float:left;
+}
+
+div.clear{
+    clear:both;
+}
+
+
+
+.selectedGrid{
+    background-color: blueviolet;
+}
+div.container{
+    position:relative;
+    height: 40px;
+    float:left;
+    left: 10px;
+    }
+body {
+    background-color:lavender ;
+}
+h1{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-align: center;
+    
+}
+p {
+    font-style:italic;
+    color: rgb(247, 221, 242);
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(153, 75, 216), 0 0 5px rgb(83, 28, 211);
+    text-align: center;
+    font-size: 25px;
+}
+#main-container{
+    border: 1px solid #000;
+    background-color: #ccc;
+}
+#left{
+    background-color: orange;
+    width:710px;
+    float:left;
+}
+
+#right{
+    border: 1px;
+    background-color: olivedrab;
+    margin:55px;
+    float:left;
+
+}
+
+.wordfound {
+    text-decoration: line-through;
+    color: #fa8f45;
+  }
+  .WordFoundHorizontal{
+    text-decoration: line-through;
+    color: #fa8f45;
+
+  }
+
+
+  
+  
+  
+  
