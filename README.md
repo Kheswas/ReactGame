@@ -5,7 +5,7 @@ The planning started with a trello board where i identified the project and its 
 the implimentation:
     a grid consisting with a given amount of words in an array.
     i needed to identify the core logic.
-        ### core logic  
+### core logic  
         : i would have functions that recieve a list of words and return a grid.
             : to highlight single cells in the grid
             : how to check if they were highlighted
